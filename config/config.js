@@ -4,7 +4,7 @@ var config =
       container: "app",
       apiAccessToken: '673957472f8ef650054a6c3b993e5362411526a3',
        appIcon: "/assets/img/hotlogo.png",
-      appName: "UNHCR Maps",
+      appName: "",
       appNameDesc: "Refugee Related Map Visualizations",
       appColor: "#ccc",
       mapDefaultStyle: 'mapbox://styles/mapbox/light-v9',
