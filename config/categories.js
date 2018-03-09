@@ -12,12 +12,12 @@ var CATEGORIES = {
 
 
   "Education": {
-    layers: ["operational-waterpoints", "non-operational-waterpoints"]
+    layers: []
   }
 
 
   "CBIs": {
-    layers: ["operational-waterpoints", "non-operational-waterpoints"]
+    layers: []
   }
 
 
