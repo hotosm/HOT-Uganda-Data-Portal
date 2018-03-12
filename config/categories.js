@@ -6,21 +6,5 @@ var CATEGORIES = {
     layers: ["operational-waterpoints", "non-operational-waterpoints"]
   }
 
-  "Health": {
-    layers: []
-  }
-
-
-  "Education": {
-    layers: []
-  }
-
-
-  "CBIs": {
-    layers: []
-  }
-
-
-
 
 }
